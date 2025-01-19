@@ -1,0 +1,18 @@
+{
+    "oop": [
+        {
+            "question": "What is polymorphism in OOP?",
+            "answer": "Polymorphism allows objects to be treated as instances of their parent class."
+        },
+        {
+            "question": "What are the principles of OOP?",
+            "answer": "Encapsulation, Inheritance, Abstraction, and Polymorphism."
+        }
+    ],
+    "networking": [
+        {
+            "question": "What is the OSI model?",
+            "answer": "The OSI model is a conceptual framework that standardizes network communication."
+        }
+    ]
+}
